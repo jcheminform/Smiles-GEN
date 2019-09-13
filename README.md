@@ -30,3 +30,5 @@ The code is freely available under a Clause-3 BSD license (https://opensource.or
 * Tensorflow
 * Numpy
 * Scipy
+* IPython
+* Matplotlib
