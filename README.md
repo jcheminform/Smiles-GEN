@@ -17,7 +17,7 @@ Ruud van Deursen<sup>a</sup>, Peter Ertl<sup>b</sup>, Igor Tetko<sup>c</sup> and
 
 <sup>c</sup> BIGCHEM GmbH  and Institute of Structural Biology, Helmholtz Zentrum München - German Research Center for Environmental Health (GmbH),  Ingolstädter Landstraße 1,  D-85764 Neuherberg, Germany
 
-Link to the publication: https://arxiv.org/abs/1909.04825
+Link to the publication(s): https://arxiv.org/abs/1909.04825 and/or https://chemrxiv.org/articles/GEN_Highly_Efficient_SMILES_Explorer_Using_Autodidactic_Generative_Examination_Networks/9796874
 
 ## License
 The code is freely available under a Clause-3 BSD license (https://opensource.org/licenses/BSD-3-Clause).
