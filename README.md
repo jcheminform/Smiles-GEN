@@ -5,7 +5,7 @@ This project contains the code used for the generation of SMILES using the publi
 ## Reference
 On using code for SMILES or modification for other text-based learning please refer to the original publication.
 
-Please cite the following publication for any use of code or any parts thereof.
+Please cite the following publication for any use of code or any parts thereof (including use of custom layers).
 
 "GEN: Highly Efficient SMILES Explorer Using Autodidactic Generative Examination Networks"
 
